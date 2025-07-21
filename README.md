@@ -8,6 +8,47 @@ difference between run and cmd.
 host a static website in your docker container.
 icmp
 
+# docker commands--
+
+1) docker --version                ------ check docker version
+2) docker info                    ------- get system info about docker installation
+3) docker pull <image>            ------- download image from docker hub
+4) docker images                 -------  list all downloaded docker image
+5) docker rmi <image id>         -------  remove image by id and name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Docker compose 
+
+docker network
+
+
+
+
+
+
+
+   
+
 
 
 
