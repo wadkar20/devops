@@ -42,6 +42,25 @@ icmp
 docker network
 
 
+# KUBERNETES
+help always your appliction up.
+1)explin the architecture of kubernetes.
+2)expain what happen when pod is deleted.
+
+master plane -- to give instruction
+pod- to manage any type of container
+pod can manage k8s
+kubelet --can manage lifecycle
+kube-proxy --- load balance
+etcd --storage
+
+
+
+
+
+
+
+
 
 
 
