@@ -44,8 +44,9 @@ docker network
 
 # KUBERNETES
 help always your appliction up.
-1)explin the architecture of kubernetes.
-2)expain what happen when pod is deleted.
+1)explain the architecture of kubernetes.
+2)explain what happen when pod is deleted.
+3)you have instances one contain sap application and one contain hdb database now evereyday start instance morning 9 am and stop your instance at 9 pm along with that you also have to stop your service sap control will be started will be 9:15 and hdb start with  9:10 in the night sap can stop 8:50 and hdb stop 8:45.
 
 master plane -- to give instruction
 pod- to manage any type of container
@@ -53,6 +54,26 @@ pod can manage k8s
 kubelet --can manage lifecycle
 kube-proxy --- load balance
 etcd --storage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
