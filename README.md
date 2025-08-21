@@ -16,6 +16,17 @@ icmp
 4) docker images                 -------  list all downloaded docker image
 5) docker rmi <image id>         -------  remove image by id and name
 
+# terraform
+What is major difference between local variables and normal variable
+Task :- Find the file meaning after init
+Task :- What is meaning of terraform.tfstate
+find meaning terraform.tfstate.backup after applying
+Task :- How to integrate terraform with your provider aws without using access key and secret access key
+What is import block?
+
+# jenkins
+what is the difference between jar and war file
+difference between ci and cd
 
 
 
