@@ -23,6 +23,9 @@ Task :- What is meaning of terraform.tfstate
 find meaning terraform.tfstate.backup after applying
 Task :- How to integrate terraform with your provider aws without using access key and secret access key
 What is import block?
+terraform lifecycle
+terraform basic files
+what is difference between local values and variables in terraform
 
 # jenkins
 what is the difference between jar and war file
