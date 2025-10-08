@@ -17,6 +17,45 @@ icmp
 5) docker rmi <image id>         -------  remove image by id and name
 
 # terraform
+
+Terraform is an open-source tool used for Infrastructure as Code (IaC). It allows developers to create, manage, and update cloud infrastructure using code instead of manual steps. With Terraform, you can define servers, storage, networks, and other resources in simple configuration files. This makes infrastructure consistent, repeatable, and version-controlled, reducing human errors.
+
+Commonly Used Terraform Commands:
+
+Initialize Terraform project:
+
+terraform init
+
+
+This command sets up the working directory with the required providers.
+
+Check the plan before applying:
+
+terraform plan
+
+
+Shows what Terraform will create, change, or delete.
+
+Apply the changes:
+
+terraform apply
+
+
+Executes the plan and creates or modifies the infrastructure.
+
+Destroy infrastructure:
+
+terraform destroy
+
+
+Deletes all the resources defined in the Terraform files.
+
+Format configuration files:
+
+terraform fmt
+
+
+Organizes and formats the code properly.
 What is major difference between local variables and normal variable
 Task :- Find the file meaning after init
 Task :- What is meaning of terraform.tfstate
@@ -26,6 +65,7 @@ What is import block?
 terraform lifecycle
 terraform basic files
 what is difference between local values and variables in terraform
+
 
 # jenkins
 what is the difference between jar and war file
