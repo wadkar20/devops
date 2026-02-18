@@ -161,8 +161,8 @@ Restart Jenkins safely (CLI):
 
 java -jar jenkins-cli.jar -s http://localhost:8080/ safe-restart
 
-what is the difference between jar and war file
-difference between ci and cd
+what is the difference between jar and war file.
+difference between ci and cd.
 
 
 
